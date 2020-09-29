@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* The magic of thinking big
+* The 5 AM Club
+* The One Thing
+
